@@ -39,5 +39,4 @@ jobs:
         pip install numpy
         pip install Flask
         pip install jsonify
-        pip install pickle
         python app.py
